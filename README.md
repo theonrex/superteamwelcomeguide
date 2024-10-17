@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 👋 Overview
 
 Welcome to the Superteam Beginner Onboarding Documentation!
@@ -38,3 +52,6 @@ We'll continuously update this guide with new insights and resources. Be sure to
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
+
+
+:link: [Suggest changes to this page](./)

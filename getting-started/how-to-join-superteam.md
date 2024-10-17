@@ -31,3 +31,6 @@ Once submitted, you’re one step closer to joining the Superteam community.
 Now that you’ve registered, the next step is to actively engage with the Superteam and start by connecting with your local **State Mod**, who will guide you through the community and opportunities.
 
 Click on the next section to learn how to find and interact with your State Mod, and get started on your journey with Superteam!
+
+\
+:link: [Suggest changes to this page](how-to-join-superteam.md)

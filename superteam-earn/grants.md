@@ -7,3 +7,6 @@ A [**Superteam Grant**](https://earn.superteam.fun/grants/) is a funding opportu
 The application process is straightforward and typically takes less than 15 minutes, with approval decisions made within 48 hours.&#x20;
 
 This initiative aims to empower innovators and streamline the funding process in the crypto space.
+
+\
+:link: [Suggest changes to this page](grants.md)

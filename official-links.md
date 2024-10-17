@@ -11,3 +11,6 @@ Websites
 * Superteam: [http://superteam.fun/](http://superteam.fun/)
 * Superteam Earn: [https://earn.superteam.fun](https://earn.superteam.fun/)
 * Superteam Nigeria: [https://ng.superteam.fun/](https://ng.superteam.fun/)
+
+\
+:link: [Suggest changes to this page](official-links.md)

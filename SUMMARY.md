@@ -30,3 +30,4 @@
 ***
 
 * [Official Links](official-links.md)
+* [Contribute](contribute.md)

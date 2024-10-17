@@ -7,3 +7,6 @@ A [**Superteam Project**](https://earn.superteam.fun/projects/) is an opportunit
 The sponsor reviews the applications and selects the most qualified freelancer to execute the project, ensuring that the chosen individual effectively meets the project's goals and deadlines.
 
 This structure allows freelancers to showcase their expertise while contributing to meaningfully within the Solana ecosystem.
+
+\
+:link: [Suggest changes to this page](projects.md)

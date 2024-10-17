@@ -1,9 +1,9 @@
 ---
+icon: location-question
 description: >-
   Each state has a designated state moderator who oversees activities and helps
   new members. These moderators are there to ensure that everything runs
   smoothly and fairly.
-icon: location-question
 ---
 
 # How to locate your state mod
@@ -34,3 +34,6 @@ Here’s a suggested message template:
 > "Good morning! My name is (insert your name), and I’m based in (insert your state). I joined this channel to connect with the state moderator and would appreciate guidance on how to become an active member and contribute to Superteam."
 
 Once you send your message, you should receive a response from your state moderator or other community members, helping you on your journey with Superteam.
+
+\
+:link: [Suggest changes to this page](how-to-locate-your-state-mod.md)

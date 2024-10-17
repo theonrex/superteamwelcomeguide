@@ -31,3 +31,6 @@ Now that you have access to your local community, there are several ways to get 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 By actively participating in these opportunities, you can make a positive impact, expand your network, and enhance your skills within the Superteam community.
+
+\
+:link: [Suggest changes to this page](start-contributing.md)

@@ -18,3 +18,5 @@ Superteam is a platform filled with opportunities to create and innovate, so you
 [hackathons.md](hackathons.md)
 {% endcontent-ref %}
 
+\
+:link: [Suggest changes to this page](superteam-earn-overview.md)

@@ -11,3 +11,6 @@ A [**Superteam Hackathon**](https://earn.superteam.fun/hackathon/radar/) is an e
 Hackathons foster a competitive yet supportive environment, encouraging creativity and collaboration. Teams present their projects at the end of the event, and winners receive prizes, recognition, or even funding opportunities.&#x20;
 
 These events are a great way to network, learn new skills, and turn ideas into tangible products while contributing to the vibrant crypto community.
+
+\
+:link: [Suggest changes to this page](hackathons.md)

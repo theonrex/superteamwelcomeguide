@@ -16,3 +16,8 @@ Get exclusive access to their members-only Discord server, where you can activel
 
 Enjoy access to a wealth of learning resources such as tutorials, workshops, and direct connections with experienced developers. Superteam ensures you're constantly learning and staying ahead in the fast-paced world of crypto innovation.
 
+
+
+\
+:link: [Suggest changes to this page](mission-and-vision.md)
+

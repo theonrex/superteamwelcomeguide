@@ -15,3 +15,6 @@ Bounties are divided into 4 main sections, which are:
 [Development](https://earn.superteam.fun/category/development/): This includes frontend and backend development, Solana development bounties
 
 [Other](https://earn.superteam.fun/category/other/): This includes ambassador, internship, promoter, e.t.c
+
+\
+:link: [Suggest changes to this page](bounties.md)

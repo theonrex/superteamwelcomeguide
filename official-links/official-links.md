@@ -13,4 +13,4 @@ Websites
 * Superteam Nigeria: [https://ng.superteam.fun/](https://ng.superteam.fun/)
 
 \
-:link: [Suggest changes to this page](official-links.md)
+:link: [Suggest changes to this page](../official-links.md)

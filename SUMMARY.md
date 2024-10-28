@@ -35,7 +35,7 @@
   * [Introduction to $kin](third-party-guides/getcode/introduction-to-usdkin.md)
   * [How to Set Up Your Code Account](third-party-guides/getcode/how-to-set-up-your-code-account.md)
   * [How to start receiving tips](third-party-guides/getcode/how-to-start-receiving-tips.md)
-  * [How to depoit kin](third-party-guides/getcode/how-to-depoit-kin.md)
+  * [How to deposit kin](third-party-guides/getcode/how-to-deposit-kin.md)
   * [How to withdraw kin](third-party-guides/getcode/how-to-withdraw-kin.md)
   * [How to give tip](third-party-guides/getcode/how-to-give-tip.md)
 

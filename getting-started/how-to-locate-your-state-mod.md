@@ -16,7 +16,7 @@ A state moderator is an individual responsible for overseeing, regulating, or ma
 
 Now that you've [registered](how-to-join-superteam.md), it’s time to dive deeper into the Superteam community. Follow these steps to get involved:
 
-1. **Join the Superteam Discord Community**: Click on this [link ](https://discord.com/app/invite-with-guild-onboarding/C6EgkeEAed)to access the Superteam Discord. Here, you can connect with other members and find valuable resources
+1. **Join the Superteam Discord Community**: Click on this [link ](https://discord.gg/4MHn4856)to access the Superteam Discord. Here, you can connect with other members and find valuable resources
 2. **Select Your State**: Once you’re in the Discord channel, choose the state you are based in. This will help you connect with the right people in your area.
 
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>

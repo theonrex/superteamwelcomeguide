@@ -16,7 +16,7 @@ layout:
 
 Welcome to the Superteam Beginner Onboarding Documentation!
 
-This comprehensive guide is crafted specifically for newcomers eager to find their path and start contributing to the Solana ecosystem through Superteam.
+This comprehensive guide is created specifically for newcomers eager to find their path and start contributing to the Solana ecosystem through Superteam.
 
 Whether you're exploring opportunities to collaborate, develop, or engage with the Solana community, this document will provide all the essential information you need to get started.
 

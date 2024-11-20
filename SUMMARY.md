@@ -40,7 +40,7 @@
   * [How to give tip](third-party-guides/getcode/how-to-give-tip.md)
 * [Solflare](third-party-guides/solflare/README.md)
   * [Introdution to solflare](third-party-guides/solflare/introdution-to-solflare.md)
-  * [How to set up solflare wallet web extension](third-party-guides/solflare/how-to-set-up-solflare-wallet-web-extension.md)
+  * [How to set up solflare wallet for web extension](third-party-guides/solflare/how-to-set-up-solflare-wallet-for-web-extension.md)
   * [How to setup solflare wallet](third-party-guides/solflare/how-to-setup-solflare-wallet.md)
   * [Solflare Acedemy](third-party-guides/solflare/solflare-acedemy.md)
   * [How to deposit and swap tokens in solflare on jupitar](third-party-guides/solflare/how-to-deposit-and-swap-tokens-in-solflare-on-jupitar.md)

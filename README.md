@@ -45,5 +45,3 @@ We'll continuously update this guide with new insights and resources. Be sure to
 {% content-ref url="superteam-earn/grants.md" %}
 [grants.md](superteam-earn/grants.md)
 {% endcontent-ref %}
-
-:link: [Suggest changes to this page](./)

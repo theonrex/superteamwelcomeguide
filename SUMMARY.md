@@ -38,8 +38,23 @@
   * [How to deposit kin](third-party-guides/getcode/how-to-deposit-kin.md)
   * [How to withdraw kin](third-party-guides/getcode/how-to-withdraw-kin.md)
   * [How to give tip](third-party-guides/getcode/how-to-give-tip.md)
+* [Solflare](third-party-guides/solflare/README.md)
+  * [Introdution to solflare](third-party-guides/solflare/introdution-to-solflare.md)
+  * [How to set up solflare wallet web extension](third-party-guides/solflare/how-to-set-up-solflare-wallet-web-extension.md)
+  * [How to setup solflare wallet](third-party-guides/solflare/how-to-setup-solflare-wallet.md)
+  * [Solflare Acedemy](third-party-guides/solflare/solflare-acedemy.md)
+  * [How to deposit and swap tokens in solflare on jupitar](third-party-guides/solflare/how-to-deposit-and-swap-tokens-in-solflare-on-jupitar.md)
+  * [How to set up solflare wallet for mobile phones](third-party-guides/solflare/how-to-set-up-solflare-wallet-for-mobile-phones.md)
+* [Page](third-party-guides/page.md)
+
+## Learning Resources
+
+* [Developers](learning-resources/developers.md)
+* [Designers](learning-resources/designers.md)
+* [Writers](learning-resources/writers.md)
 
 ## Official Links
 
 * [Official Links](official-links/official-links.md)
-* [Contribute](official-links/contribute.md)
+* [Contribute](official-links/contribute/README.md)
+  * [Contributors](official-links/contribute/contributors.md)

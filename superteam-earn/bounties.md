@@ -1,6 +1,6 @@
 # 👨‍💻 Bounties
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Superteam Bounties** are tasks or projects offered by various platforms within the Superteam community that members can complete for rewards. These bounties can range from writing and creating graphic designs to conducting product reviews or developing software solutions.
 

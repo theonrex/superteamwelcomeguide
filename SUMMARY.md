@@ -45,7 +45,11 @@
   * [Solflare Acedemy](third-party-guides/solflare/solflare-acedemy.md)
   * [How to deposit and swap tokens in solflare on jupitar](third-party-guides/solflare/how-to-deposit-and-swap-tokens-in-solflare-on-jupitar.md)
   * [How to set up solflare wallet for mobile phones](third-party-guides/solflare/how-to-set-up-solflare-wallet-for-mobile-phones.md)
-* [Page](third-party-guides/page.md)
+* [Phantom](third-party-guides/phantom/README.md)
+  * [Phantom Mobile (Email Sign Up)](third-party-guides/phantom/phantom-mobile-email-sign-up.md)
+  * [Phantom Mobile (Seed Phrase)](third-party-guides/phantom/phantom-mobile-seed-phrase.md)
+  * [Phantom Extension (Seed Phrase)](third-party-guides/phantom/phantom-extension-seed-phrase.md)
+  * [Phantom Extension (Email Sign-up)](third-party-guides/phantom/phantom-extension-email-sign-up.md)
 
 ## Learning Resources
 

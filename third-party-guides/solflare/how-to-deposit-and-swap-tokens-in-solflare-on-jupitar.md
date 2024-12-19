@@ -12,11 +12,11 @@ You can depoit via a Cex or another wallet
 
 Once you're done dopisting your sol, the next step to swap on jupitar. To do this, click the "Brower icon" at the buttom and input www.jup.ag to go to jupitar page.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="296"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="296"><figcaption></figcaption></figure>
 
 Once youre on the jupitar page the next step is to connect your wallet to the website to be able to perform transactions by clicking the connect wallet button, then pick solflare wallet and it is also recommedn to toggle the auto-connect swtich so that you wont have to connect wallet everytime you visit jupitar to perform transtions.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="296"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="296"><figcaption></figcaption></figure>
 
 Now, that we have connected our wallet, the next step is to perform some transtions by swapping our sol to jup.
 
@@ -53,6 +53,6 @@ Before procedding. What does swapping means in crypto?
 
 To swap the tokens simply make sol base and jup the quote currency. Now input the amont of sol you want to swap to jup and jupitar will return the equivalent price of jup then you should click swap button and slide to approve transaction.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="148"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="148"><figcaption></figcaption></figure>
 
 Once you transaction is approved, you will get an in-app notification that the swap has be complted. To view your new tokens, go back to the homepage and it will automatically be added there.

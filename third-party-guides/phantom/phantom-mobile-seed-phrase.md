@@ -6,7 +6,7 @@ Phantom wallets are available as extensions for mobile devices supporting Androi
 
 ### Step 1: Download the Phantom App
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Head over to the [Phantom download](https://phantom.app/download) page.
 * Scroll down to the mobile section and click either **iOS** or **Android**, according to the OS of your mobile device.

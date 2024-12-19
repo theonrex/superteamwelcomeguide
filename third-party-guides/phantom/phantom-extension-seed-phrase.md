@@ -32,6 +32,6 @@ Phantom Wallet is a popular Solana wallet available as a browser extension for C
 
 * After saving it, click **Continue** to proceed.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Congratulations, You’ve successfully set up your Phantom Wallet. You're now ready to explore the Solana ecosystem!

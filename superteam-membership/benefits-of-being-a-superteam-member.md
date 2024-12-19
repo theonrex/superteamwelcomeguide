@@ -1,4 +1,4 @@
-# Benefits of being a superteam member
+# Benefits of being a Superteam Member
 
 Superteam Membership provides many opportunities, resources, and perks to help members thrive in the Solana ecosystem.&#x20;
 
@@ -41,7 +41,7 @@ Superteam members benefit from targeted fundraising support designed to help the
 Superteam Membership offers a unique opportunity to invest in the future of Solana:
 
 * **Deal-by-deal investments**: Members can invest in promising early-stage Solana projects alongside other Superteam Members, Leads, and Solana protocol founders. This structure allows you to carefully select opportunities that align with your interests and goals.
-* **Collaborative opportunities**: Work closely with other investors in the Superteam Collective, leveraging their insights and expertise to make informed decisions. To get started, fill out this [application form](https://chatgpt.com/c/67629443-3970-8013-acb0-0d7772bf1f20).
+* **Collaborative opportunities**: Work closely with other investors in the Superteam Collective, leveraging their insights and expertise to make informed decisions.
 
 ### **Exclusive Member NFT**
 

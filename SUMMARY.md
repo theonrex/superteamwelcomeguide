@@ -30,8 +30,8 @@
 ## Superteam Membership
 
 * [What is superteam membership?](superteam-membership/what-is-superteam-membership.md)
-* [Benefits of being a Superteam Member](superteam-membership/benefits-of-being-a-superteam-member.md)
-* [How to be a Superteam Full-Fledged Member](superteam-membership/how-to-be-a-superteam-full-fledged-member.md)
+* [Benefits of Superteam Membership](superteam-membership/benefits-of-superteam-membership.md)
+* [How to be a Superteam Full-Fledged Member](superteam-membership/how-to-be-a-superteam-full-fldged-member.md)
 * [Key Considerations](superteam-membership/key-considerations.md)
 
 ## Third-Party-Guides

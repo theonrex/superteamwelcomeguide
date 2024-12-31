@@ -12,7 +12,7 @@ You can depoit via a Cex or another wallet
 
 Once you're done dopisting your sol, the next step to swap on jupitar. To do this, click the "Brower icon" at the buttom and input www.jup.ag to go to jupitar page.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="296"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="296"><figcaption></figcaption></figure>
 
 Once youre on the jupitar page the next step is to connect your wallet to the website to be able to perform transactions by clicking the connect wallet button, then pick solflare wallet and it is also recommedn to toggle the auto-connect swtich so that you wont have to connect wallet everytime you visit jupitar to perform transtions.
 

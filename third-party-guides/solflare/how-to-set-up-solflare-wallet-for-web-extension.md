@@ -1,8 +1,8 @@
-# How to set up solflare wallet web extension
+# How to set up solflare wallet for web extension
 
 ## Step 1: Download the Solflare Wallet <a href="#id-690d" id="id-690d"></a>
 
-To get started, visit the official [**Solflare website**](https://solflare.com/)[ ](https://chromewebstore.google.com/detail/solflare-wallet/bhhhlbepdkbapadjdnnojkbgioiodbic)to download the wallet. **Click Add to Brave** (this option will vary depending on your browser, such as Chrome, Brave, or Edge), then click the **Add Extension** button
+To get started, visit the official [**Solflare website**](#user-content-fn-1)[^1][ ](https://chromewebstore.google.com/detail/solflare-wallet/bhhhlbepdkbapadjdnnojkbgioiodbic)to download the wallet. **Click Add to Brave** (this option will vary depending on your browser, such as Chrome, Brave, or Edge), then click the **Add Extension** button
 
 <figure><img src="../../.gitbook/assets/desktop solflare.png" alt=""><figcaption></figcaption></figure>
 
@@ -53,3 +53,5 @@ To ensure your Solflare extension is easily accessible on your browser interface
 This will "pin" the Solflare extension, making it visible on the toolbar for quick access whenever you need it.
 
 <figure><img src="../../.gitbook/assets/pin extenstion.png" alt=""><figcaption></figcaption></figure>
+
+[^1]: [https://chromewebstore.google.com/detail/solflare-wallet/bhhhlbepdkbapadjdnnojkbgioiodbic](https://chromewebstore.google.com/detail/solflare-wallet/bhhhlbepdkbapadjdnnojkbgioiodbic)

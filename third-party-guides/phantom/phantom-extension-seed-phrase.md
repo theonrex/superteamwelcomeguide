@@ -24,7 +24,7 @@ Phantom Wallet is a popular Solana wallet available as a browser extension for C
 
 <figure><img src="../../.gitbook/assets/phrase.png" alt=""><figcaption></figcaption></figure>
 
-* Carefully write down your recovery phrase in a secure offline location.
+* Carefully write down your recovery phrase and store it in a secure offline location.
 
 {% hint style="danger" %}
 **Important:** Never share your recovery phrase with anyone. This is the key to accessing your wallet.

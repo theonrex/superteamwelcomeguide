@@ -8,7 +8,7 @@ Here's how to set it up:
 
 ### Step 1: Download the Phantom App
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Visit [phantom.app/download](https://phantom.app/download).
 * Scroll down to the mobile section and click either **iOS** or **Android**, according to the OS of your mobile device.

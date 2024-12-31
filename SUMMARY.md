@@ -57,6 +57,9 @@
   * [Phantom Mobile (Seed Phrase)](third-party-guides/phantom/phantom-mobile-seed-phrase.md)
   * [Phantom Extension (Seed Phrase)](third-party-guides/phantom/phantom-extension-seed-phrase.md)
   * [Phantom Extension (Email Sign-up)](third-party-guides/phantom/phantom-extension-email-sign-up.md)
+* [Backpack](third-party-guides/backpack/README.md)
+  * [Backpack Extension](third-party-guides/backpack/backpack-extension.md)
+  * [Backpack Wallet Mobile](third-party-guides/backpack/backpack-wallet-mobile.md)
 
 ## Learning Resources
 

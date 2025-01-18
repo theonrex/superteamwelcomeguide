@@ -1,5 +1,7 @@
 # Swap on Solflare
 
+<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+
 ### **What Does It Mean to Swap on Solflare?**
 
 Swapping on Solflare is like exchanging one cryptocurrency for another directly within your wallet.&#x20;

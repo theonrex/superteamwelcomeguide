@@ -41,7 +41,7 @@ On the next screen, you'll see your access key. This is crucial for account reco
 **Important**: Keep this key safe and private. It's the only way to access your account.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/privatekey.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 ### 5. Link Your X (Twitter) Account
 

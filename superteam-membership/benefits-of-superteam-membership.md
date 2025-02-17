@@ -6,7 +6,7 @@ Superteam Membership provides many opportunities, resources, and perks to help m
 
 ### **Discounts on Essential Services**
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Superteam members enjoy significant discounts on a range of services essential for building and scaling their projects:
 
@@ -20,7 +20,7 @@ For a full list of services, check out [this link](https://superteam.fun/member-
 
 ### **Fundraising Support**
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Superteam members benefit from targeted fundraising support designed to help them scale their ventures:
 

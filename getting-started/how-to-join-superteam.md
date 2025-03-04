@@ -22,11 +22,11 @@ Create an account
 
 Once submitted, you’re one step closer to joining the Superteam community.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Finalize your profile**: Once your profile is fully set up, it will look similar to the provided example. You’ll then be ready to explore earning opportunities and contribute to the Solana ecosystem, tapping into bounties, projects, and collaborations available to Superteam members.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 Now that you’ve registered, the next step is to actively engage with the Superteam and start by connecting with your local **State Mod**, who will guide you through the community and opportunities.
 

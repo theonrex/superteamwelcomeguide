@@ -4,7 +4,7 @@ icon: laptop-mobile
 
 # Hackathons
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 A [**Superteam Hackathon**](https://earn.superteam.fun/hackathon/radar/) is an event designed to bring together developers, designers, and creators to collaborate on innovative projects within a limited timeframe. Participants work in teams to brainstorm, design, and build solutions, often focusing on specific themes or challenges related to the Solana ecosystem.&#x20;
 

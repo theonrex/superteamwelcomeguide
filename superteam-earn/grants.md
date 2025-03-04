@@ -1,6 +1,6 @@
 # 💲 Grants
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 A [**Superteam Grant**](https://earn.superteam.fun/grants/) is a funding opportunity designed to support builders within the Solana ecosystem who need financial resources to develop their ideas. These grants provide fast, equity-free funding, allowing you to secure financial support without giving up any ownership of your project.
 

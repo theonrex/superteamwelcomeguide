@@ -1,6 +1,6 @@
 # 📝 Projects
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 A [**Superteam Project**](https://earn.superteam.fun/projects/) is an opportunity for hiring freelancers, where sponsors post detailed ads outlining specific tasks. Interested candidates complete a customized application form that highlights their skills and experience.&#x20;
 

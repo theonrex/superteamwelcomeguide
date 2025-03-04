@@ -1,6 +1,6 @@
 # Phantom
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 [Phantom](https://phantom.app/) is a non-custodial wallet and browser extension that can manage digital assets and interact with smart contracts and digital applications.&#x20;
 

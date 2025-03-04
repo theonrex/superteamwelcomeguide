@@ -63,8 +63,18 @@
 
 ## Learning Resources
 
-* [Developers](learning-resources/developers.md)
-* [Designers](learning-resources/designers.md)
+* [Graphic Design](learning-resources/graphic-design/README.md)
+  * [Introduction to Graphic Design](learning-resources/graphic-design/introduction-to-graphic-design.md)
+  * [Fundamentals of Graphic Design](learning-resources/graphic-design/fundamentals-of-graphic-design.md)
+  * [Essential Tools & Resources](learning-resources/graphic-design/essential-tools-and-resources/README.md)
+    * [Best Devices for Graphic Design](learning-resources/graphic-design/essential-tools-and-resources/best-devices-for-graphic-design.md)
+  * [Learning & Skill Improvement](learning-resources/graphic-design/learning-and-skill-improvement.md)
+  * [Essential Design Principles](learning-resources/graphic-design/essential-design-principles.md)
+  * [Starting as a Graphic Designer](learning-resources/graphic-design/starting-as-a-graphic-designer.md)
+  * [Building & Improving Your Design Portfolio](learning-resources/graphic-design/building-and-improving-your-design-portfolio.md)
+  * [Finding Graphic Design Jobs & Clients](learning-resources/graphic-design/finding-graphic-design-jobs-and-clients.md)
+  * [What’s Next?](learning-resources/graphic-design/whats-next.md)
+  * [FAQs](learning-resources/graphic-design/faqs.md)
 * [Writers](learning-resources/writers.md)
 
 ## Official Links

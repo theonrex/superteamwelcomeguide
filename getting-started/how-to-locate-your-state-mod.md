@@ -19,15 +19,15 @@ Now that you've [registered](how-to-join-superteam.md), it’s time to dive deep
 1. **Join the Superteam Discord Community**: Click on this [link ](https://discord.gg/4MHn4856)to access the Superteam Discord. Here, you can connect with other members and find valuable resources
 2. **Select Your State**: Once you’re in the Discord channel, choose the state you are based in. This will help you connect with the right people in your area.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 1.  **Identify Your Skills**: In addition to your location, identify the skills you possess that could contribute to the Superteam community.\
 
 
-    <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 2. **Connect with Your State Moderator**: After selecting your state, scroll down to the **State Guilds** section in the Discord channel. You should see your state listed there. Send a message to your state moderator to introduce yourself.&#x20;
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 Here’s a suggested message template:
 

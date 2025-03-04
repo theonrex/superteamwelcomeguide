@@ -4,7 +4,9 @@
 
 ### **Overview**
 
-This course introduces beginners to graphic design by covering essential concepts, tools, and techniques. By the end of the course, you'll understand design principles, and be familiar with industry-standard software.
+This course is designed to make **learning graphic design simple and accessible** for beginners. It covers essential concepts, tools, and techniques, helping you build a strong foundation.&#x20;
+
+By the end of this course, you'll have a solid understanding of **design principles** and hands-on experience with **industry-standard software**, giving you the confidence to start creating easily.
 
 ### **Creator**
 

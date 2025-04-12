@@ -2,15 +2,19 @@
 
 ## Step 1: Download the Solflare Wallet <a href="#id-690d" id="id-690d"></a>
 
-To get started, visit the official [**Solflare website**](#user-content-fn-1)[^1][ ](https://chromewebstore.google.com/detail/solflare-wallet/bhhhlbepdkbapadjdnnojkbgioiodbic)to download the wallet. **Click Add to Brave** (this option will vary depending on your browser, such as Chrome, Brave, or Edge), then click the **Add Extension** button
+To get started, visit the official [**Solflare website**](#user-content-fn-1)[^1][ ](https://chromewebstore.google.com/detail/solflare-wallet/bhhhlbepdkbapadjdnnojkbgioiodbic)to download the wallet.&#x20;
 
-<figure><img src="../../.gitbook/assets/desktop solflare.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/solfare downlaod.png" alt=""><figcaption></figcaption></figure>
+
+**Click Add to Brave** (this option will vary depending on your browser, such as Chrome, Brave, or Edge), then click the **Add Extension** button
+
+<figure><img src="../../.gitbook/assets/solfare 1.png" alt=""><figcaption></figcaption></figure>
 
 ## Step 2: Create a New Wallet <a href="#id-7661" id="id-7661"></a>
 
 After installing the app, open it and click the **“I NEED A NEW WALLET”** button. This will guide you through the initial setup process, which is straightforward and helps you create a secure digital wallet.
 
-<figure><img src="../../.gitbook/assets/add new wallet.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/new wallet 1.png" alt=""><figcaption></figcaption></figure>
 
 ## Step 3: Securely Store Your Recovery Phrase <a href="#f46b" id="f46b"></a>
 
@@ -20,7 +24,7 @@ During setup, you’ll receive a recovery phrase _**(a set of words that is your
 
 Your **recovery phrase** is your ultimate access key, and losing it can lead to permanent loss of your funds. Similarly, anyone who obtains it can access your wallet and funds.
 
-<figure><img src="../../.gitbook/assets/save phrase.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/solfare setup.png" alt=""><figcaption></figcaption></figure>
 
 ## Step 4: Confirm Your Recovery Phrase <a href="#b707" id="b707"></a>
 
@@ -32,19 +36,19 @@ Follow the instructions, fill in the correct word(s), and click **“Continue.�
 
 This step ensures that you’ve securely backed up your access key.
 
-<figure><img src="../../.gitbook/assets/CONFRIM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/save phrase1.png" alt=""><figcaption></figcaption></figure>
 
 ## Step 5: Set Up a Security Code <a href="#ba4d" id="ba4d"></a>
 
 Create a security code as an additional layer of protection for your assets.
 
-<figure><img src="../../.gitbook/assets/password.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/solfare password.png" alt=""><figcaption></figcaption></figure>
 
 
 
 Congratulations! Your Solflare wallet setup is now complete, and you’re ready to manage your Solana assets securely.
 
-<figure><img src="../../.gitbook/assets/desxtop wallet (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/final wallet.png" alt=""><figcaption></figcaption></figure>
 
 Bonus.
 
@@ -52,6 +56,6 @@ To ensure your Solflare extension is easily accessible on your browser interface
 
 This will "pin" the Solflare extension, making it visible on the toolbar for quick access whenever you need it.
 
-<figure><img src="../../.gitbook/assets/pin extenstion.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/add extension.png" alt=""><figcaption></figcaption></figure>
 
-[^1]: [https://chromewebstore.google.com/detail/solflare-wallet/bhhhlbepdkbapadjdnnojkbgioiodbic](https://chromewebstore.google.com/detail/solflare-wallet/bhhhlbepdkbapadjdnnojkbgioiodbic)
+[^1]: [https://www.solflare.com/download/](https://www.solflare.com/download/)

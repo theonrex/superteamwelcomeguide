@@ -4,12 +4,10 @@
 
 [Solflare](https://solflare.com/) is a non-custodial cryptocurrency wallet that lets you store, send, & receive tokens on the [Solana](https://solana.com/) blockchain. It’s available on the web, as a browser extension, and as a mobile app for Android and iOS.&#x20;
 
-Solflare is the perfect wallet to help you safely explore Solana, buy and store tokens, swap assets, manage NFTs, and dive into decentralized finance (DeFi) from your mobile device or computer.
-
-[\
+Solflare is the perfect wallet to help you safely explore Solana, buy and store tokens, swap assets, manage NFTs, and dive into decentralized finance (DeFi) from your mobile device or computer.[\
 ](https://chrome.google.com/webstore/detail/solflare-wallet/bhhhlbepdkbapadjdnnojkbgioiodbic)
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **Core Features:**
 
@@ -18,7 +16,7 @@ Solflare is the perfect wallet to help you safely explore Solana, buy and store 
 First and foremost, Solflare ensures your assets are safe with a range of security features:
 
 * **Non-custodial:** You control your private keys, giving you full ownership and security of your assets.
-* **Hardware Wallet Support:** For extra peace of mind, Solflare works with ledger devices such as[@Ledger](https://x.com/Ledger) and [@KeystoneWallet](https://x.com/KeystoneWallet) to provide added protection.
+* **Hardware Wallet Support:** For extra peace of mind, Solflare works with ledger devices such as [@Ledger](https://x.com/Ledger) and [@KeystoneWallet](https://x.com/KeystoneWallet) to provide added protection.
 * **Transaction Simulations:** Before you sign any transaction, Solflare lets you preview it to help avoid costly mistakes.
 * **Anti-Phishing:** Solflare protects you from potentially harmful websites by alerting you to phishing risks.
 

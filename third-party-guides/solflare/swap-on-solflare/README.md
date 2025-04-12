@@ -1,6 +1,6 @@
 # Swap on Solflare
 
-<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/solfare trade.png" alt=""><figcaption></figcaption></figure>
 
 ### **What Does It Mean to Swap on Solflare?**
 

@@ -75,7 +75,18 @@
   * [Finding Graphic Design Jobs & Clients](learning-resources/graphic-design/finding-graphic-design-jobs-and-clients.md)
   * [What’s Next?](learning-resources/graphic-design/whats-next.md)
   * [FAQs](learning-resources/graphic-design/faqs.md)
-* [Writers](learning-resources/writers.md)
+* [Video Editing](learning-resources/video-editing/README.md)
+  * [Introduction to Video Editing](learning-resources/video-editing/introduction-to-video-editing.md)
+  * [Understanding Video Editing](learning-resources/video-editing/understanding-video-editing.md)
+  * [Essential Tools for Video Editing](learning-resources/video-editing/essential-tools-for-video-editing.md)
+  * [Best Devices for Video Editing](learning-resources/video-editing/best-devices-for-video-editing.md)
+  * [Learning & Improving Your Skills](learning-resources/video-editing/learning-and-improving-your-skills.md)
+  * [Video Editing Basics](learning-resources/video-editing/video-editing-basics/README.md)
+    * [Color Correction & Grading (Making Videos Look Cinematic)](learning-resources/video-editing/video-editing-basics/color-correction-and-grading-making-videos-look-cinematic.md)
+    * [Using Transitions & Effects Wisely](learning-resources/video-editing/video-editing-basics/using-transitions-and-effects-wisely.md)
+  * [Creating Engaging Videos: Captivate Your Audience Like a Pro](learning-resources/video-editing/creating-engaging-videos-captivate-your-audience-like-a-pro.md)
+  * [Monetizing Your Video Editing Skills](learning-resources/video-editing/monetizing-your-video-editing-skills.md)
+  * [Page](learning-resources/video-editing/page.md)
 
 ## Official Links
 

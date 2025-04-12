@@ -4,6 +4,8 @@ icon: users-medical
 
 # How to Join Superteam
 
+{% embed url="https://youtu.be/ZtmSWxOa1O0" %}
+
 Create an account
 
 1. **Visit the Superteam website**: Head over to [https://earn.superteam.fun/](https://earn.superteam.fun/) to begin the sign-up process.

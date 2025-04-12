@@ -38,6 +38,6 @@ Losing your PIN means losing access to your account. Phantom does not store your
 * Create a strong password to secure your wallet.
 * Agree to the terms of service by checking the box and click **Continue**.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Congratulations, You just finished setting up your wallet securely.

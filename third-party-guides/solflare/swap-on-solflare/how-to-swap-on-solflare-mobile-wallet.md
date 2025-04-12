@@ -1,16 +1,12 @@
 # How to swap on Solflare Mobile wallet
 
-
-
-{% embed url="https://youtu.be/0Jista2bBdM?si=Hn7ddzwXvG83YBV1" %}
-
 ### **Step 1: Navigate to the Token Swap Page**
 
 To start, click on any of the **swap icons on the page**. This will take you to the dedicated token swap page where you can manage your swaps.
 
-<figure><img src="../../../.gitbook/assets/swap mobile solfare.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/step 1.png" alt=""><figcaption></figcaption></figure>
 
-#### **Step 2: Choose the Token Pair to Swap**
+#### **e4Step 2: Choose the Token Pair to Swap**
 
 Now that you’re on the swap page, follow these steps:
 
@@ -19,7 +15,7 @@ Now that you’re on the swap page, follow these steps:
 3. Review the details and make sure the values look correct.
 4. Click the **Swap** button to proceed.
 
-<figure><img src="../../../.gitbook/assets/solflare wallet mobile 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/swap solfare 1.png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 3: Approve the Transaction**
 
@@ -32,7 +28,7 @@ After clicking the **Swap** button, you’ll need to approve the transaction.
 Sliding to approve helps ensure accidental swaps don’t happen!
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/solflare wallet 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/step 3.png" alt=""><figcaption></figcaption></figure>
 
 #### **Final Step: Check Your Swapped Tokens**
 
@@ -41,7 +37,7 @@ Once the transaction is complete:
 1. Click the **homepage icon** to return to the main dashboard.
 2. You’ll now see your newly swapped tokens displayed in your portfolio.
 
-<figure><img src="../../../.gitbook/assets/solana wallet final step (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/solflare swap final.png" alt=""><figcaption></figcaption></figure>
 
 ### **That’s All!**
 

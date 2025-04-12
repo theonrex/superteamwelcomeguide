@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # How to set up solflare wallet for mobile phones
 
 ## Step 1: Download the Solflare Wallet <a href="#id-690d" id="id-690d"></a>

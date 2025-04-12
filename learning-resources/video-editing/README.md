@@ -11,7 +11,7 @@ By the end of this course, you'll have a solid understanding of **design princip
 ### **Creator**
 
 {% hint style="success" %}
-This course was created by throughdeeslens, a passionate designer dedicated to making graphic design accessible to everyone.&#x20;
+This course was created by throughdeeslens, a video editor and movie director committed to making video editing accessible to everyone.
 {% endhint %}
 
 Twitter(X): [throughdeeslens](https://x.com/throughdeeslens).

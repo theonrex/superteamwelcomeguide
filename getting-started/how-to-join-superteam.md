@@ -4,7 +4,7 @@ icon: users-medical
 
 # How to Join Superteam
 
-{% embed url="https://youtu.be/ZtmSWxOa1O0" %}
+{% embed url="https://youtu.be/WPp9TVi7BzE" %}
 
 Create an account
 
